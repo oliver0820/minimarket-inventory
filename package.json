@@ -1,0 +1,12 @@
+{
+  "name": "minimarket-inventory",
+  "version": "1.0.0",
+  "description": "Proyecto CRUD para la gestión de inventario de un minimarket, implementado con Git Flow según los requisitos de la tarea de Programación III.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
